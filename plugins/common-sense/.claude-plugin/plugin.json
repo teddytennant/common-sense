@@ -1,0 +1,15 @@
+{
+  "name": "common-sense",
+  "version": "0.1.0",
+  "description": "A skill that gives a coding agent the judgment a competent engineer already has. Stops invented APIs, unrun-test claims, extra files, interviews, and ceremony.",
+  "author": {
+    "name": "Teddy Tennant"
+  },
+  "homepage": "https://github.com/teddytennant/common-sense",
+  "keywords": [
+    "common-sense",
+    "judgment",
+    "coding-agent",
+    "skill"
+  ]
+}

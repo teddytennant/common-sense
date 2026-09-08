@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "common-sense",
+  "version": "0.1.0",
+  "description": "A skill that gives a coding agent common sense.",
+  "owner": {
+    "name": "Teddy Tennant"
+  },
+  "plugins": [
+    {
+      "name": "common-sense",
+      "description": "Stop inventing APIs, claiming unrun tests, overbuilding, and interviewing the user about choices that do not matter.",
+      "source": "./plugins/common-sense",
+      "category": "productivity"
+    }
+  ]
+}
